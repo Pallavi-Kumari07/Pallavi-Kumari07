@@ -60,8 +60,7 @@ When I’m not coding, I’m designing!
 - 🎭 **Graphic Designer and Fashion Designer** at Clitch - The Fashion Society of NSUT  
 - 🎟️ Leading **social media campaigns** & **merchandise design**  
 - 📸 Designing posters, event promos and branding for college events  
-
-![Designer Life](https://github.com/Pallavi-Kumari07/Pallavi-Kumari07/blob/main/gif4.gif)  
+ 
 
 <br>
 
