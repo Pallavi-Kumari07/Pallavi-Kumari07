@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Pallavi
-I'm a second-year Computer Science Engineering student at Netaji Subhas University of Technology, Delhi, passionate about full-stack development, data structures and graphic design.
+I'm a Sophomore, Computer Science Engineering student at Netaji Subhas University of Technology, Delhi, passionate about full-stack development, data structures and graphic design.
 I love turning ideas into reality with code and creativity!
 
 
